@@ -13,6 +13,7 @@ application {
     prodDatabaseType postgresql
     buildTool maven
     clientFramework vue
+    clientTheme cosmo
     testFrameworks [cypress]
   }
   entities *
